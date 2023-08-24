@@ -1,4 +1,3 @@
 # NewLab04Paarth
 
-
-1234
+This is my first commit _Paarth Value 1
